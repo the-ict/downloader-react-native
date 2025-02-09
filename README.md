@@ -1,30 +1,42 @@
-📥 Video Downloader App
-A React Native app to download videos from Instagram and 10+ platforms! 🚀
+## 📥 **Video Yuklab Olish Ilovasi**  
+*Instagram va yana 10+ platformadan videolarni yuklab olish uchun React Native ilovasi!* 🚀  
 
-✨ Features
-✅ Download videos from Instagram, Facebook, Twitter, TikTok, and more
-✅ Simple & fast URL-based video fetching
-✅ Built with React Native & yt-dlp integration
-✅ Lightweight & easy to use
+![Ilova Banneri](https://via.placeholder.com/800x400?text=Video+Downloader+App)  
 
-📌 Installation
-sh
-Copy
-Edit
+### ✨ **Xususiyatlar**  
+✅ Instagram, Facebook, Twitter, TikTok va boshqa platformalardan video yuklab olish  
+✅ Oddiy va tezkor URL orqali video olish  
+✅ React Native va `yt-dlp` integratsiyasi  
+✅ Yengil va ishlatish oson  
+
+---
+
+### 📌 **O'rnatish**  
+```sh
 git clone https://github.com/YOUR_USERNAME/downloader-app.git  
 cd downloader-app  
 npm install  
 npx expo start
-🚀 Usage
-1️⃣ Paste the video link 📋
-2️⃣ Press "Download" 📥
-3️⃣ Enjoy your saved video 🎥
+```
 
-🛠 Tech Stack
-React Native (Expo)
-Node.js backend (optional)
-yt-dlp for video extraction
-📜 License
-MIT License © 2025 YOUR_NAME
+---
 
-📌 Agar ko‘proq qo‘shmoqchi bo‘lsangiz, ayting! 😊
+### 🚀 **Foydalanish**  
+1️⃣ **Video havolasini joylashtiring** 📋  
+2️⃣ **"Yuklab olish" tugmasini bosing** 📥  
+3️⃣ **Saqlangan videodan bahramand bo'ling** 🎥  
+
+---
+
+### 🛠 **Texnologiyalar**  
+- **React Native (Expo)**  
+- **Node.js backend (ixtiyoriy)**  
+- **yt-dlp video olish uchun**  
+
+---
+
+### 📜 **Litsenziya**  
+Ushbu loyiha **MIT Litsenziyasi** asosida taqdim etiladi.  
+
+📩 **Savollaringiz bormi? Hissa qo'shish yoki muammolarni ochishdan tortinmang!** 🚀  
+
