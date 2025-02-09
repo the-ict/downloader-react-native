@@ -13,7 +13,7 @@
 
 ### 📌 **O'rnatish**  
 ```sh
-git clone https://github.com/YOUR_USERNAME/downloader-app.git  
+git clone https://github.com/dvlt-org/downloader-react-native.git  
 cd downloader-app  
 npm install  
 npx expo start
