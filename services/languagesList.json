@@ -1,0 +1,46 @@
+{
+    "af": {
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans"
+    },
+    "en": {
+        "name": "English",
+        "nativeName": "English"
+    },
+    "es": {
+        "name": "Spanish",
+        "nativeName": "Español"
+    },
+    "fr": {
+        "name": "French",
+        "nativeName": "Français"
+    },
+    "de": {
+        "name": "German",
+        "nativeName": "Deutsch"
+    },
+    "zh": {
+        "name": "Chinese",
+        "nativeName": "中文"
+    },
+    "ja": {
+        "name": "Japanese",
+        "nativeName": "日本語"
+    },
+    "ru": {
+        "name": "Russian",
+        "nativeName": "Русский"
+    },
+    "ar": {
+        "name": "Arabic",
+        "nativeName": "العربية"
+    },
+    "pt": {
+        "name": "Portuguese",
+        "nativeName": "Português"
+    },
+    "uz": {
+        "name": "Uzbek",
+        "nativeName": "Oʻzbekcha"
+    }
+}
