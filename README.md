@@ -1,7 +1,6 @@
 ## 📥 **Video Yuklab Olish Ilovasi**  
 *Instagram va yana 10+ platformadan videolarni yuklab olish uchun React Native ilovasi!* 🚀  
 
-![Ilova Banneri](https://via.placeholder.com/800x400?text=Video+Downloader+App)  
 
 ### ✨ **Xususiyatlar**  
 ✅ Instagram, Facebook, Twitter, TikTok va boshqa platformalardan video yuklab olish  
