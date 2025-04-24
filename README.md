@@ -33,9 +33,3 @@ npx expo start
 - **yt-dlp video olish uchun**  
 
 ---
-
-### 📜 **Litsenziya**  
-Ushbu loyiha **MIT Litsenziyasi** asosida taqdim etiladi.  
-
-📩 **Savollaringiz bormi? Hissa qo'shish yoki muammolarni ochishdan tortinmang!** 🚀  
-
